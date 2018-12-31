@@ -1,0 +1,22 @@
+{
+    "name": "blacklady-code-workspace",
+    "displayName": "blacklady.code-workspace",
+    "description": "Modeled after the Black Lady from Sailor Moon R.",
+    "version": "0.0.1",
+    "publisher": "ayaimarion",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Lady",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black Lady-color-theme.json"
+            }
+        ]
+    }
+}
